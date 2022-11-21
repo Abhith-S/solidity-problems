@@ -1,2 +1,2 @@
-# solidity-problems
+# solidity problems
 solidity problems and solution codes
